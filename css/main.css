@@ -17,7 +17,8 @@ html {
   line-height: 1.4;
 }
 
-.hero-content-image {
+.hero-content-image,
+.team-image {
   height: 300px;
 }
 /*
